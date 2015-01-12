@@ -19,5 +19,14 @@ typedef struct{
   char city[10];
 }Record;
 
+Build and Run within 1st folder:
+
+gcc -o m1 HP.c Sorted.c main1.c BF.o && ./m1
+gcc -o m2 HP.c Sorted.c main2.c BF.o && ./m2
+
+
+
+
+
 
 
