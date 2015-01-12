@@ -1,7 +1,9 @@
-DatabaseSystem
+Database System Management Simulation
+
 ==============
 
-Deployment of a simple low level database system in C
+Deployment of a simple low level database system in C. The database implementation uses an academin library
+called 
 The project handles records and blocks in block level inside the disk
 Also, it is using indexes to observe the speed difference
 
